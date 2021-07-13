@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "885297610520",
+    "project_id": "techno-cloud",
+    "storage_bucket": "techno-cloud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885297610520:android:18083f386f20d3599c686d",
+        "android_client_info": {
+          "package_name": "com.techno_cloud.posts_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885297610520-mg1iq9lpn7n1rqp33o08ntsetiui5m6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techno_cloud.posts_app",
+            "certificate_hash": "93282bcf8df66363629f8517ae3a44c2c63152a4"
+          }
+        },
+        {
+          "client_id": "885297610520-3a0vd716aijuq6u5rg6g62g823mhk9pn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4LXuwICcGaZSOpNx4wbATKiFqtHMTqXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885297610520-3a0vd716aijuq6u5rg6g62g823mhk9pn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
